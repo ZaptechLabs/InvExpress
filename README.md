@@ -1,7 +1,8 @@
+<p align="center">
 <h1>InvXpress</h1>
-
+<a><img alt="Adobe logo" height="50px" src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg"/></a>
 <p>Welcome to <strong>InvXpress</strong> that offers a revolutionary solution that automates invoice tracking through advanced email scraping, OCR and anomaly detection. Our system streamlines the entire invoicing process, enhancing accuracy, speed and provide a secure way to manage their invoices from receipt to approval, allowing business owners to focus on growth and success with confidence.</p>
-
+</p>
 <h2>Features</h2>
 
 <ul>
