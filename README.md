@@ -1,99 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>InvExpress - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 800px;
-            margin: 30px auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        ul {
-            list-style-type: disc;
-            margin-left: 20px;
-        }
-        a {
-            color: #3498db;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .features, .get-started, .links {
-            margin-top: 20px;
-        }
-        .header {
-            background-color: #3498db;
-            color: #fff;
-            text-align: center;
-            padding: 10px 0;
-            border-radius: 8px 8px 0 0;
-        }
-        .footer {
-            text-align: center;
-            font-size: 0.9em;
-            color: #666;
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="header">
-            <h1>Welcome to InvExpress!</h1>
-        </div>
+<h1>InvXpress</h1>
 
-        <p>InvExpress is your ultimate partner for efficient invoice management, validation, and payment approval. Streamline your financial workflows and ensure accuracy with our comprehensive solution.</p>
+<p>Welcome to <strong>InvXpress</strong> that offers a revolutionary solution that automates invoice tracking through advanced email scraping, OCR and anomaly detection. Our system streamlines the entire invoicing process, enhancing accuracy, speed and provide a secure way to manage their invoices from receipt to approval, allowing business owners to focus on growth and success with confidence.</p>
 
-        <div class="features">
-            <h2>Key Features</h2>
-            <ul>
-                <li><strong>Automated Invoice Validation:</strong> Save time with automatic checks for errors and inconsistencies.</li>
-                <li><strong>Efficient Payment Approvals:</strong> Simplify the approval process with customizable workflows.</li>
-                <li><strong>Real-time Tracking:</strong> Monitor invoice status and payment progress with ease.</li>
-                <li><strong>Integration Capabilities:</strong> Easily integrate with your existing financial systems.</li>
-            </ul>
-        </div>
+<h2>Features</h2>
 
-        <div class="get-started">
-            <h2>Get Started</h2>
-            <p>Follow these steps to start using InvExpress:</p>
-            <ol>
-                <li>Refer to our <a href="#installation">Installation Guide</a> for setup instructions.</li>
-                <li>Explore the <a href="#documentation">Documentation</a> to learn more about features and configurations.</li>
-                <li>Try the <a href="#demo">Live Demo</a> to see InvExpress in action.</li>
-            </ol>
-        </div>
+<ul>
+    <li><strong>Email Scrapping</strong>: Automatically extracts invoice data from emails.</li>
+    <li><strong>Accurate data extraction with OCR</strong>: High-precision text recognition from scanned documents.</li>
+    <li><strong>Anomaly Detection</strong>: Identifies discrepancies and flags suspicious invoices.</li>
+    <li><strong>Automated Invoice Workflow</strong>: Seamless transition from invoice receipt to approval.</li>
+</ul>
 
-        <div class="links">
-            <h2>Useful Links</h2>
-            <ul>
-                <li><a href="#installation">Installation Guide</a></li>
-                <li><a href="#documentation">Documentation</a></li>
-                <li><a href="#demo">Live Demo</a></li>
-            </ul>
-        </div>
 
-        <div class="footer">
-            <p>Join businesses worldwide in transforming how they manage invoices. Get started with InvExpress today!</p>
-        </div>
-    </div>
+<h2>Attachment</h2>
+
+<p> InvXpress:  <a href="https://www.appsheet.com/start/07a75a20-e9dd-41ba-a267-71353b730fb8">InvXpress Appsheet (Browser Link)</a></p>
+<p> SpreadSheet:  <a href="https://docs.google.com/spreadsheets/d/1jhZ3LB1ivggS2J31VXeazJMx2W1OXZHePfcS_h-Ize0/edit?usp=sharing">InvXpress SpreadSheet</a></p>
+<p> Invoice PDF Sample:  <a href="https://drive.google.com/file/d/1EUL2xwT2Q8ESDQO8A6D8yES0mu1_vUYP/view?usp=sharing">InvXpress IV-00005.pdf</a></p>
+<p> Appsheet(Mobile Install):  <a href="https://www.appsheet.com/newshortcut/07a75a20-e9dd-41ba-a267-71353b730fb8">InvXpress Mobile Application Install</a></p>
+
+<h2>Contact</h2>
+
+<p>If you have any questions or need further assistance, feel free to contact us at <a href="mailto:claire.nxe@gmail.com">claire.nxe@gmail.com</a>.</p>
+
 </body>
-</html>
-
-
